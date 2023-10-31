@@ -29,3 +29,5 @@ namespace HMS.Data
         public DbSet<Picture> Pictures { get; set; }
     }
 }
+
+
