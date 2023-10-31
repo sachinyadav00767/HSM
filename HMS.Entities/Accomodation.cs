@@ -19,3 +19,4 @@ namespace HMS.Entities
         public List<AccomodationPicture> AccomodationPictures { get; set; }
     }
 }
+
